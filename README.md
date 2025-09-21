@@ -94,7 +94,7 @@ Invoke-WebRequest -Uri http://localhost:8080/ping -Headers @{"X-Request-Id" = "d
 ## Проверка "неудачный запрос"
 
 ```Powershell
-Invoke-WebRequest -Uri http://localhost:8080/ping -Headers @{"X-Request-Id" = "demo-123"}
+curl http://localhost:8080/fail
 ```
 <img width="974" height="413" alt="image" src="https://github.com/user-attachments/assets/19cd5f32-d135-43d0-b513-6f3d2e314eb9" />
 
