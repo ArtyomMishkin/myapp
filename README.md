@@ -98,7 +98,7 @@ curl http://localhost:8080/fail
 ```
 <img width="974" height="413" alt="image" src="https://github.com/user-attachments/assets/19cd5f32-d135-43d0-b513-6f3d2e314eb9" />
 
-# Список из 5 артефактов и папок, куда бы я их положили и почему 
+# Список из 5 артефактов и папок, куда бы я их положил и почему 
 
 ## 1. Основной исполняемый файл → /cmd/myapp/main.go
 
